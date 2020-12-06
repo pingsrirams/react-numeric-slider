@@ -1,0 +1,15 @@
+.App {
+  padding-top: 64px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.placeholder {
+  background-color: whitesmoke;
+  border: 1px dashed red;
+  height: 360px;
+  width: 75%;
+}
